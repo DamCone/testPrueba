@@ -2,3 +2,7 @@ Damián Conejos Monzó
 Java
 Python
 C++
+
+VS
+NetBeans
+Oracle
